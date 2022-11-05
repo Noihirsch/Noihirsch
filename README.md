@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, cybersecurity and cats.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on videogame projects.
-- 📫 How to reach me @noihirsch < Twitter.
+- 📫 How to reach me @xcosmicod < Twitter.
 
 
 <!---
