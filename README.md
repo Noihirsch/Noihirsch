@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noi!
 - 👀 I’m interested in videogames, cybersecurity and cats.
-- 🌱 I’m currently learning Phython 3.85 and HTML.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on videogame projects.
 - 📫 How to reach me @noihirsch < Twitter.
 
