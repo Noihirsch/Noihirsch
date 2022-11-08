@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noi!
+- 👋 Hi, I’m @Noi/Diana!
 - 👀 I’m interested in videogames, cybersecurity and cats.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on videogame projects.
