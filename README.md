@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noi/Diana!
-- 👀 I’m interested in videogames, cybersecurity and cats.
+- 👀 I’m interested in videogames and cybersecurity.
 - 🌱 Java, C#, Python
 
 
