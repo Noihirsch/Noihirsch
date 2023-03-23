@@ -4,7 +4,7 @@
   color: crimson;
   background-color: #f1f1f1;
   padding: 2px;
-  font-size: 105%";>hola</code>
+  font-size: 105%;">hola</code>
 
 <!---
 Noihirsch/Noihirsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
