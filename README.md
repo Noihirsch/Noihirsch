@@ -1,4 +1,4 @@
-[![Noi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="[![Noi's GitHub stats](https://github-readme-stats.vercel.app/api?username=noihirsch)](https://github.com/noihirsch/github-readme-stats)" />
