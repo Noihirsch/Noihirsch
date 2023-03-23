@@ -29,4 +29,5 @@ Currently working towards mastering:<br>
   
 <p align="left"> Gmail</p>
 
-<img src="https://user-images.githubusercontent.com/61323569/227322927-6028f6e3-6f0a-4f89-b78b-6f4b3a2ac529.png" align="right">
+<img src="https://user-images.githubusercontent.com/61323569/227324044-570053c9-f3a4-496b-b3f2-3ba11d528a35.gif" align="left">
+
