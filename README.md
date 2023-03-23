@@ -27,5 +27,6 @@ Currently working towards mastering:<br>
   
 <a href="digoncaldaw@gmail.com"> <img src="https://user-images.githubusercontent.com/61323569/227322927-6028f6e3-6f0a-4f89-b78b-6f4b3a2ac529.png" height="40px" align="center">  </a>
   
-  <p align="left"> Gmail</p>
+<p align="left"> Gmail</p>
 
+<img src="https://user-images.githubusercontent.com/61323569/227322927-6028f6e3-6f0a-4f89-b78b-6f4b3a2ac529.png" align="right">
