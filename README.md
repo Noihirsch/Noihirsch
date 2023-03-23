@@ -9,13 +9,9 @@ I'm a web development student (DAW) based in Spain, A Coruña. I'm very passiona
 <!-- DARK MODE -->
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noihirsch&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/noihirsch/github-readme-stats#gh-dark-mode-only)
 
-<!-- LIGHT MODE -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noihirsch&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/noihirsch/github-readme-stats#gh-light-mode-only)
 
 <h1> - Language experience </h1>
 
-<!--  LIGHT MODE -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noihirsch&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/noihirsch/github-readme-stats)
 
 <!-- DARK MODE -->
 
