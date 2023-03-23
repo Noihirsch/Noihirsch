@@ -1,4 +1,6 @@
-<h1 style="font-size:60px;"> Diana Goncalves </h1>
+<h1> Diana Goncalves </h1>
+
+<code>hola</code>
 
 <!---
 Noihirsch/Noihirsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
