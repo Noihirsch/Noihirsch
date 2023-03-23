@@ -1,5 +1,4 @@
 
-<h4 align="center"> Hey, there. I'm Diana 👋</h4>
 <h1 align="center"> Welcome!  </h1>
 
 <img height="100" align="center" src="https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png" >
