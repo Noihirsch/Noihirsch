@@ -16,7 +16,7 @@ Currently working towards mastering:<br>
 <ul> <li>Java</li> <li> C# </li> <li> Python </li> </ul>
 
 <h2> - 🌿 Reach out! </h2>
-<br><br>
+<br>
 <a href="https://www.linkedin.com/in/diana-goncalves-pedre-5a6957252/"> <img src="https://user-images.githubusercontent.com/61323569/227320843-c69eb8ad-f129-45cc-9a21-8d7c49d86aa3.png" height="40px"> </a> 
   
   <p align = "left"> Linkedin</p>
