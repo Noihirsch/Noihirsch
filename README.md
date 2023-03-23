@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Noi/Diana!
-- 👀 I’m interested in videogames and cybersecurity.
-- 🌱 Java, C#, Python
-
+<h1> hello</h1>
 
 <!---
 Noihirsch/Noihirsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
