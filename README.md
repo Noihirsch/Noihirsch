@@ -2,9 +2,9 @@
 <h4 align="center"> Hey, there. I'm Diana 👋</h4>
 <h1 align="center"> Welcome!  </h1>
 
-<img src="https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png" height=160>
+<img height=100 src="https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png" >
 
-I'm a web development student (DAW) based in Spain, A Coruña. I'm very passionate about solving problems and thinking outside the norm. I'm an open-source advocate and a vintage technology enthusiast. 
+Web development student (DAW) based in Spain, A Coruña. Very passionate about problems-solving and thinking outside the norm. I'm an open-source advocate and a retro revival enthusiast.  
 
 <h1> - 📊 Stats</h1>
 
@@ -20,5 +20,3 @@ I'm a web development student (DAW) based in Spain, A Coruña. I'm very passiona
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noihirsch&layout=compact&theme=vue-dark#gh-dark-mode-only)](https://github.com/noihirsch/github-readme-stats)
 
 
-
-![noname](https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png)
