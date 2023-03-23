@@ -2,7 +2,7 @@
 <h4 align="center"> Hey, there. I'm Diana 👋</h4>
 <h1 align="center"> Welcome!  </h1>
 
-<img src="https://user-images.githubusercontent.com/61323569/227301889-48af5266-af16-4aed-9e32-273a50ad71ab.png" height=160 margin-left=10%>
+<img src="https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png" height=160>
 
 I'm a web development student (DAW) based in Spain, A Coruña. I'm very passionate about solving problems and thinking outside the norm. I'm an open-source advocate and a vintage technology enthusiast. 
 
@@ -21,3 +21,4 @@ I'm a web development student (DAW) based in Spain, A Coruña. I'm very passiona
 
 
 
+![noname](https://user-images.githubusercontent.com/61323569/227303147-1d821b5c-ad5b-4e95-b099-8613e0aa5989.png)
