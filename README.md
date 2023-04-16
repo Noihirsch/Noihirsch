@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome! My name is Diana. 🖖  </h1>
 
 <br>
-<p align="center">"Web development student (Ciclo Superior de Desarrollo de Aplicaciones Web) based in Spain, A Coruña. Very passionate about problem-solving and thinking outside the box. I'm an open-source advocate, indie game maker and a retro revival enthusiast."  </p>
+<p align="center">"Web development student based in Spain, A Coruña. Very passionate about problem-solving and thinking outside the box. I'm an open-source advocate, indie game maker and a retro revival enthusiast."  </p>
 
 <h2> - 🌿 My statistics </h2>
 
