@@ -12,7 +12,7 @@
 
 <h2> - 🌿 Current goals </h2>
 Currently working towards mastering:<br>
-<ul> <li>Java</li> <li> C# </li> <li> Python </li> </ul>
+<ul> <li>Javascript</li> <li> C# </li> <li> Python </li> </ul>
 
 <h2> - 🌿 Reach out! </h2>
 <br>
