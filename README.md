@@ -4,4 +4,4 @@
   <kbd>👩🏼‍💻</kbd> full-stack developer, wip: pocket hero. <br> 
   <kbd>🌱</kbd> based in a <b>coruña, spain.</b> <br>
   <kbd>🛸</kbd> <b>interests:</b> robotics, open-source, art and ttrpgs! <br>
-   <kbd>💻</kbd> <b>stack:</b> c#, python, bit of angular here and there. <br>
+   <kbd>💻</kbd> <b>stack:</b> c#, python, angular. <br>
